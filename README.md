@@ -1,8 +1,8 @@
-#Diwali Sales Analysis Using Python
+#Diwali_Sales_Analysis_Using_Python
 
 ##Overview:-
 
-Exploratory Data Analysis (EDA) is a crucial step in data science, helping to understand, visualize, and derive insights from data. This project demonstrates EDA techniques using Python on a Diwali Sales dataset sourced from Kaggle. The dataset is ideal for performing EDA and gaining insights into customer purchasing behavior during Diwali sales.
+#Exploratory Data Analysis (EDA) is a crucial step in data science, helping to understand, visualize, and derive insights from data. This project demonstrates EDA techniques using Python on a Diwali Sales dataset sourced from Kaggle. The dataset is ideal for performing EDA and gaining insights into customer purchasing behavior during Diwali sales.
 
 ##Project Objectives:-
 
